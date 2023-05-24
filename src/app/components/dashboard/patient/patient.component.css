@@ -1,0 +1,8 @@
+mat-card-content {
+    color: #3f51b5;
+    align-self: center;
+}
+
+mat-card:hover {
+    transform: scale(1.06);
+}
